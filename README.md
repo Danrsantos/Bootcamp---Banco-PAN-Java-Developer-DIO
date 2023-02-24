@@ -20,7 +20,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Como Entregar seu Desafio de Projeto :heavy_check_mark:
 * Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Repositorio :heavy_check_mark:
 
-### Conhecendo a Linguagem de Programação Java
+### :green_book: Conhecendo a Linguagem de Programação Java
 * Dominando IDEs Java
 * Aprendendo a Sintaxe Java
 * Lógica Condicional e Controle de Fluxos em Java
@@ -28,14 +28,14 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Estruturas de Dados em Java
 * Entendendo Métodos Java
 
-### Dominando Algoritmos Básicos com Desafio de Código Java
+### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java
 * Desafio: Fábrica de Carros
 * Desafio: Imprimindo Positivos e Média
 * Desafio: Soma de H com N termos
 * Desafio: Dragão!
 * Desafio: Fibonacci Fácil
 
-### Programação Orientada a Objetos com Java
+### :green_book: Programação Orientada a Objetos com Java
 * Programação orientada a Objetos
 * Trabalhando com Collections Java
 * Debugging Java
@@ -44,12 +44,12 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Teste Unitártios Com Java
 * Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-### Trabalhando com Banco de Dados SQL e NoSQL
+### :green_book: Trabalhando com Banco de Dados SQL e NoSQL
 * Primeiros Passos com SQL
 * Introdução ao MongoDB e Banco de Dados NoSQL
 * Boas Práticas com DynamoDB
 
-### Ganhando Produtividade com Spring Framework
+### :green_book: Ganhando Produtividade com Spring Framework
 * Principais Protocolos de Comunicação de Internet
 * Imersão no Spring Framework com Spring Boot
 * Criando uma API REST Documentada com Spring Web e Swagger
@@ -58,7 +58,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Criando uma API REST Conectada ao Amazon RDS com Java
 * Explorando Padrões de Projeto na Prática com Java
 
-### Dominando Algoritmos Intermediários com Desafio de Código Java
+### :green_book: Dominando Algoritmos Intermediários com Desafio de Código Java
 * Desafio: Animal
 * Desafio: Quitanda do Seu Zé
 * Desafio: Triângulo
