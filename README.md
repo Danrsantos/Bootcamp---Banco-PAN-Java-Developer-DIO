@@ -8,7 +8,12 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ## Atividades Propostas:
 
 
-* Prepare-se Para a Jornada
-*   
+### :green_book: Prepare-se Para a Jornada:
+* Conheça as Oportunidades da DIO
+* Seja Protagonista Nesse Bootcamp
+* Introdução ao Desenvolvimento Moderno de Software
+
+### :green_book: Principios de Desenvolvimento de Software:
+* 
 
 
