@@ -4,3 +4,11 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 <div align="center">
   <img src="https://user-images.githubusercontent.com/112780452/221062931-185cb3f8-4886-44cb-abf8-bb25cbffd426.png" width="400px" height="400px"/>
 </div>
+
+## Atividades Propostas:
+
+
+* Prepare-se Para a Jornada
+*   
+
+
