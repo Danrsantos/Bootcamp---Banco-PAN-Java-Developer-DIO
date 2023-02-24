@@ -1,4 +1,4 @@
-# Links Úteis utilizados ao decorrer do Bootcamp :bulb:
+# Links Úteis Utilizados ao Decorrer do Bootcamp :bulb:
 
 [Portugol WebStudio] (https://dgadelha.github.io/Portugol-Webstudio/)
 
