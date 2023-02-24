@@ -1,0 +1,27 @@
+Introdução ao Git e GitHub (Windows / Unix)
+
+dir = Lista os diretorios da pasta atual - windows
+ls = Lista os diretorios da pasta atual - Unix
+
+cd = usado para navegar entre as pastas presentes no diretorio (windows / unix)
+
+cd .. = retoceder ao diretorio anterior (windows / unix)
+
+cls = limpar o terminal (Windows)
+clear = linpar terminal (Unix)
+
+tecla TAB = auto completa o texto
+
+mkdir = criar um novo diretorio (Windows / Unix)
+
+echo = print no terminal oq foi digitado.
+echo exemplo > exemplo.txt = vai gravar oq foi printado dentro de um arquivo de texto.
+
+del workspace = comando del vai deletar o arquivo dentro do diretorio especificado. (windows)
+
+rmdir = deleta o diretorio(pasta) e todos os arquivos que o mesmo possui (windows)
+ex: rmdir workspace /S /Q
+
+
+
+
