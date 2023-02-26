@@ -21,7 +21,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Repositorio :heavy_check_mark:
 
 ### :green_book: Conhecendo a Linguagem de Programação Java
-* Dominando IDEs Java
+* Dominando IDEs Java :heavy_check_mark:
 * Aprendendo a Sintaxe Java
 * Lógica Condicional e Controle de Fluxos em Java
 * Estrutura de Repetição e Arrays em Java
