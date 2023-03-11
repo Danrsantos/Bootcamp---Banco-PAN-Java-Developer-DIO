@@ -24,7 +24,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Dominando IDEs Java :heavy_check_mark:
 * Aprendendo a Sintaxe Java :heavy_check_mark:
 * Lógica Condicional e Controle de Fluxos em Java :heavy_check_mark:
-* Estrutura de Repetição e Arrays em Java
+* Estrutura de Repetição e Arrays em Java :heavy_check_mark:
 * Estruturas de Dados em Java
 * Entendendo Métodos Java
 
