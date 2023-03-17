@@ -1,0 +1,26 @@
+package com.listaCircular;
+
+public class Main {
+    public static void main(String[] args) {
+        ListaCircular<String> minhaListaCircular = new ListaCircular<>();
+
+        minhaListaCircular.add("C0");
+        System.out.println(minhaListaCircular);
+
+        minhaListaCircular.remove(0);
+        System.out.println(minhaListaCircular);
+
+        minhaListaCircular.add("C1");
+        System.out.println(minhaListaCircular);
+
+        minhaListaCircular.add("C2");
+        minhaListaCircular.add("C3");
+        minhaListaCircular.add("C4");
+        System.out.println(minhaListaCircular);
+
+        System.out.println(minhaListaCircular.get(2));
+        System.out.println(minhaListaCircular.get(5));
+
+        minhaListaCircular.remove(10);
+    }
+}
