@@ -26,7 +26,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Lógica Condicional e Controle de Fluxos em Java :heavy_check_mark:
 * Estrutura de Repetição e Arrays em Java :heavy_check_mark:
 * Estruturas de Dados em Java :heavy_check_mark:
-* Entendendo Métodos Java
+* Entendendo Métodos Java :heavy_check_mark:
 
 ### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java
 * Desafio: Fábrica de Carros
