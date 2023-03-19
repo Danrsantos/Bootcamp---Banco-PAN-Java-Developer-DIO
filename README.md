@@ -28,12 +28,12 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Estruturas de Dados em Java :heavy_check_mark:
 * Entendendo Métodos Java :heavy_check_mark:
 
-### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java
-* Desafio: Fábrica de Carros
-* Desafio: Imprimindo Positivos e Média
-* Desafio: Soma de H com N termos
-* Desafio: Dragão!
-* Desafio: Fibonacci Fácil
+### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java :heavy_check_mark:
+* Desafio: Fábrica de Carros :heavy_check_mark:
+* Desafio: Imprimindo Positivos e Média :heavy_check_mark:
+* Desafio: Soma de H com N termos :heavy_check_mark:
+* Desafio: Dragão! :heavy_check_mark:
+* Desafio: Fibonacci Fácil :heavy_check_mark:
 
 ### :green_book: Programação Orientada a Objetos com Java
 * Programação orientada a Objetos
