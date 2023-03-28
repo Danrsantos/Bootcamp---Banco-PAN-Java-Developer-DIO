@@ -38,7 +38,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ### :green_book: Programação Orientada a Objetos com Java
 * Programação orientada a Objetos :heavy_check_mark:
 * Trabalhando com Collections Java :heavy_check_mark:
-* Debugging Java
+* Debugging Java :heavy_check_mark:
 * Tratamento de Exceções em Java
 * Gerenciamento de Dependências e Build em Java com Maven
 * Teste Unitártios Com Java
