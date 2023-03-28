@@ -36,8 +36,8 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Desafio: Fibonacci Fácil :heavy_check_mark:
 
 ### :green_book: Programação Orientada a Objetos com Java
-* Programação orientada a Objetos
-* Trabalhando com Collections Java
+* Programação orientada a Objetos :heavy_check_mark:
+* Trabalhando com Collections Java :heavy_check_mark:
 * Debugging Java
 * Tratamento de Exceções em Java
 * Gerenciamento de Dependências e Build em Java com Maven
