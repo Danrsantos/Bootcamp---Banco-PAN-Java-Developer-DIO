@@ -26,7 +26,6 @@ public class Main {
         System.out.println("Remova os valores ímpares: ");
         numerosAleatorios1.removeIf(Integer -> Integer % 2 != 0);
         System.out.println(numerosAleatorios1);
-
-
+        
     }
 }
