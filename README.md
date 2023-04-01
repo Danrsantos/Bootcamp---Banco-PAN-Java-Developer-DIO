@@ -35,14 +35,14 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Desafio: Dragão! :heavy_check_mark:
 * Desafio: Fibonacci Fácil :heavy_check_mark:
 
-### :green_book: Programação Orientada a Objetos com Java
+### :green_book: Programação Orientada a Objetos com Java :heavy_check_mark:
 * Programação orientada a Objetos :heavy_check_mark:
 * Trabalhando com Collections Java :heavy_check_mark:
 * Debugging Java :heavy_check_mark:
-* Tratamento de Exceções em Java
-* Gerenciamento de Dependências e Build em Java com Maven
-* Teste Unitártios Com Java
-* Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+* Tratamento de Exceções em Java :heavy_check_mark:
+* Gerenciamento de Dependências e Build em Java com Maven :heavy_check_mark:
+* Teste Unitártios Com Java :heavy_check_mark:
+* Abstraindo um Bootcamp Usando Orientação a Objetos em Java :heavy_check_mark:
 
 ### :green_book: Trabalhando com Banco de Dados SQL e NoSQL
 * Primeiros Passos com SQL
