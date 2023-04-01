@@ -1,4 +1,4 @@
 package com.Danilo;
 
-public class ContaTeste {
+public class ContaTest {
 }

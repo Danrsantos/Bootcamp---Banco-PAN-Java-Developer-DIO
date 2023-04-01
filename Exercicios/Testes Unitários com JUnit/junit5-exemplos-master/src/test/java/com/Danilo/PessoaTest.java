@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
 
-public class PessoaTeste {
+public class PessoaTest {
     @Test
     void deveCalcularIdadeCorretamente(){
         Pessoa Pedro = new Pessoa("Pedro", LocalDateTime.of(2001,2,20, 14,0,0));
