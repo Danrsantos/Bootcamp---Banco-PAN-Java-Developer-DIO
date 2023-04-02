@@ -28,7 +28,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Estruturas de Dados em Java :heavy_check_mark:
 * Entendendo Métodos Java :heavy_check_mark:
 
-### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java :heavy_check_mark:
+### :green_book: Dominando Algoritmos Básicos com Desafio de Código Java 
 * Desafio: Fábrica de Carros :heavy_check_mark:
 * Desafio: Imprimindo Positivos e Média :heavy_check_mark:
 * Desafio: Soma de H com N termos :heavy_check_mark:
