@@ -45,7 +45,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Abstraindo um Bootcamp Usando Orientação a Objetos em Java :heavy_check_mark:
 
 ### :green_book: Trabalhando com Banco de Dados SQL e NoSQL
-* Primeiros Passos com SQL
+* Primeiros Passos com SQL :heavy_check_mark:
 * Introdução ao MongoDB e Banco de Dados NoSQL
 * Boas Práticas com DynamoDB
 
