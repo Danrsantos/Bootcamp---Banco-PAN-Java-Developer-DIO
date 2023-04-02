@@ -35,7 +35,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Desafio: Dragão! :heavy_check_mark:
 * Desafio: Fibonacci Fácil :heavy_check_mark:
 
-### :green_book: Programação Orientada a Objetos com Java :heavy_check_mark:
+### :green_book: Programação Orientada a Objetos com Java
 * Programação orientada a Objetos :heavy_check_mark:
 * Trabalhando com Collections Java :heavy_check_mark:
 * Debugging Java :heavy_check_mark:
