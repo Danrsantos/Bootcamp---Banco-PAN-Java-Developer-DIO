@@ -47,7 +47,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ### :green_book: Trabalhando com Banco de Dados SQL e NoSQL
 * Primeiros Passos com SQL :heavy_check_mark:
 * Introdução ao MongoDB e Banco de Dados NoSQL :heavy_check_mark:
-* Boas Práticas com DynamoDB
+* Boas Práticas com DynamoDB heavy_check_mark
 
 ### :green_book: Ganhando Produtividade com Spring Framework
 * Principais Protocolos de Comunicação de Internet
