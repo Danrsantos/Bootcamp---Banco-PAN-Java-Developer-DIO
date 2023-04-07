@@ -50,8 +50,8 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Boas Práticas com DynamoDB :heavy_check_mark:
 
 ### :green_book: Ganhando Produtividade com Spring Framework
-* Principais Protocolos de Comunicação de Internet
-* Imersão no Spring Framework com Spring Boot
+* Principais Protocolos de Comunicação de Internet :heavy_check_mark:
+* Imersão no Spring Framework com Spring Boot :heavy_check_mark:
 * Criando uma API REST Documentada com Spring Web e Swagger
 * Adicionando Segurança a uma API REST com Spring Security
 * Conhecendo Spring Data JPA na Prática com Java
