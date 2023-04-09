@@ -53,7 +53,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Principais Protocolos de Comunicação de Internet :heavy_check_mark:
 * Imersão no Spring Framework com Spring Boot :heavy_check_mark:
 * Criando uma API REST Documentada com Spring Web e Swagger :heavy_check_mark:
-* Adicionando Segurança a uma API REST com Spring Security
+* Adicionando Segurança a uma API REST com Spring Security :heavy_check_mark:
 * Conhecendo Spring Data JPA na Prática com Java
 * Criando uma API REST Conectada ao Amazon RDS com Java
 * Explorando Padrões de Projeto na Prática com Java
