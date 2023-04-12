@@ -55,15 +55,15 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 * Criando uma API REST Documentada com Spring Web e Swagger :heavy_check_mark:
 * Adicionando Segurança a uma API REST com Spring Security :heavy_check_mark:
 * Conhecendo Spring Data JPA na Prática com Java :heavy_check_mark:
-* Criando uma API REST Conectada ao Amazon RDS com Java
-* Explorando Padrões de Projeto na Prática com Java
+* Criando uma API REST Conectada ao Amazon RDS com Java :heavy_check_mark:
+* Explorando Padrões de Projeto na Prática com Java :heavy_check_mark:
 
 ### :green_book: Dominando Algoritmos Intermediários com Desafio de Código Java
-* Desafio: Animal
-* Desafio: Quitanda do Seu Zé
-* Desafio: Triângulo
-* Desafio: Conta Espaços e Vogais
-* Desafio: Taxa de Imposto de Renda
+* Desafio: Animal :heavy_check_mark:
+* Desafio: Quitanda do Seu Zé :heavy_check_mark:
+* Desafio: Triângulo :heavy_check_mark:
+* Desafio: Conta Espaços e Vogais :heavy_check_mark:
+* Desafio: Taxa de Imposto de Renda :heavy_check_mark:
 
 
 
